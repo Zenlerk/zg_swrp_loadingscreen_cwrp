@@ -111,7 +111,6 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{ogg: "swrp1.ogg", name: "ZG | Loading Screen Song"},
 	{youtube: "0zqr-2yd3Mc", name: "Clone Wars"},
 ];
 
